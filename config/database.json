@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "user": "root",
+    "host": "localhost",
+    "database": "DB_vinditek",
+    "password": "1"
+  },
+
+  "production": {
+    "user": "root",
+    "host": "localhost",
+    "database": "DB_vinditek",
+    "password": "1"
+  }
+}
